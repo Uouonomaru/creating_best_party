@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE compatibilities SYSTEM "compatibilities.dtd">
+<compatibilities>
+    <compatibility>
+        <type t1="Normal" t2="" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Ghost" level="-2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Heating" t2="" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Water" t2="" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Voltage" t2="" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Leaf" t2="" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Bug" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ice" t2="" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Combat" t2="" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Poison" t2="" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Bug" t2="" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Rock" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Dragon" t2="" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Dragon" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Heating" t2="Normal" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="-2" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Water" t2="Normal" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Ghost" level="-2" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Leaf" t2="Normal" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="-2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="Normal" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="-2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Normal" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="-2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Normal" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Normal" />
+        <weakpoint type="Combat" level="2" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="-3" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Normal" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Ghost" level="-2" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Combat" t2="Heating" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="Heating" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="2" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Heating" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Rock" level="2" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Heating" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Heating" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-2" />
+        <weakpoint type="Water" level="2" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="2" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="Heating" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Heating" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Voltage" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Steel" level="-2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Leaf" t2="Water" />
+        <weakpoint type="Water" level="-2" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ice" t2="Water" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-2" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Rock" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Combat" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Poison" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="2" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Water" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-2" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="2" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="Water" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Dragon" t2="Water" />
+        <weakpoint type="Heating" level="-2" />
+        <weakpoint type="Water" level="-2" />
+        <weakpoint type="Dragon" level="1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Water" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Ice" level="-2" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Steel" level="-2" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Water" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="Voltage" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-3" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Voltage" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Voltage" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Bug" t2="Voltage" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Voltage" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="2" />
+        <weakpoint type="Aviation" level="-2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="Voltage" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Voltage" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="2" />
+        <weakpoint type="Aviation" level="-2" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Steel" level="-2" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ice" t2="Leaf" />
+        <weakpoint type="Heating" level="2" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Combat" t2="Leaf" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="2" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Poison" t2="Leaf" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="Leaf" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Voltage" level="-3" />
+        <weakpoint type="Ice" level="2" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Rock" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Leaf" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="2" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-3" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Rock" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Leaf" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="2" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Bug" t2="Leaf" />
+        <weakpoint type="Heating" level="2" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Aviation" level="2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Rock" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Leaf" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Dragon" t2="Leaf" />
+        <weakpoint type="Water" level="-2" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="2" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Dragon" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Leaf" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="2" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Leaf" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="2" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Leaf" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="2" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="Ice" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Ice" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="2" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Ice" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="Ice" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Ice" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="2" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Ice" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="2" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-2" />
+        <weakpoint type="Combat" level="2" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Ice" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Poison" t2="Combat" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="2" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Combat" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Bug" t2="Combat" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="2" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Combat" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-2" />
+        <weakpoint type="Fairy" level="2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Temblor" t2="Poison" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Poison" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Poison" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Bug" t2="Poison" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="Poison" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-3" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Dragon" t2="Poison" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Dragon" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Poison" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Poison" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Esper" level="1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Aviation" t2="Temblor" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Ice" level="2" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Bug" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Temblor" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Bug" t2="Temblor" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Temblor" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="2" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="Temblor" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Dragon" t2="Temblor" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Voltage" level="-3" />
+        <weakpoint type="Ice" level="2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Dragon" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Temblor" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Temblor" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="-2" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Poison" level="-3" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-2" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Esper" t2="Aviation" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Bug" t2="Aviation" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Temblor" level="-3" />
+        <weakpoint type="Aviation" level="1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Aviation" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Ghost" t2="Aviation" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-3" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Dragon" t2="Aviation" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="2" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Dragon" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Aviation" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Aviation" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="-1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Aviation" />
+        <weakpoint type="Voltage" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Temblor" level="-2" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Esper" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Dragon" t2="Esper" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Dragon" level="1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Esper" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Mischief" level="1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Esper" />
+        <weakpoint type="Combat" level="-2" />
+        <weakpoint type="Poison" level="1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Ghost" level="1" />
+        <weakpoint type="Dragon" level="-2" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Rock" t2="Bug" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Rock" level="1" />
+        <weakpoint type="Steel" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Bug" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="2" />
+        <weakpoint type="Leaf" level="-2" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Rock" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Leaf" level="1" />
+        <weakpoint type="Combat" level="2" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="1" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Rock" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Water" level="1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="2" />
+        <weakpoint type="Poison" level="-3" />
+        <weakpoint type="Temblor" level="2" />
+        <weakpoint type="Aviation" level="-2" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-1" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Ghost" />
+        <weakpoint type="Normal" level="-2" />
+        <weakpoint type="Combat" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Fairy" level="1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Mischief" t2="Dragon" />
+        <weakpoint type="Heating" level="-1" />
+        <weakpoint type="Water" level="-1" />
+        <weakpoint type="Voltage" level="-1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="1" />
+        <weakpoint type="Combat" level="1" />
+        <weakpoint type="Esper" level="-2" />
+        <weakpoint type="Bug" level="1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Dragon" level="1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="2" />
+    </compatibility>
+    <compatibility>
+        <type t1="Steel" t2="Mischief" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Combat" level="2" />
+        <weakpoint type="Poison" level="-2" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-3" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Ghost" level="-1" />
+        <weakpoint type="Dragon" level="-1" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Steel" level="-1" />
+    </compatibility>
+    <compatibility>
+        <type t1="Fairy" t2="Steel" />
+        <weakpoint type="Normal" level="-1" />
+        <weakpoint type="Heating" level="1" />
+        <weakpoint type="Leaf" level="-1" />
+        <weakpoint type="Ice" level="-1" />
+        <weakpoint type="Poison" level="-1" />
+        <weakpoint type="Temblor" level="1" />
+        <weakpoint type="Aviation" level="-1" />
+        <weakpoint type="Esper" level="-1" />
+        <weakpoint type="Bug" level="-2" />
+        <weakpoint type="Rock" level="-1" />
+        <weakpoint type="Dragon" level="-3" />
+        <weakpoint type="Mischief" level="-1" />
+        <weakpoint type="Fairy" level="-1" />
+    </compatibility>
+    
+</compatibilities>

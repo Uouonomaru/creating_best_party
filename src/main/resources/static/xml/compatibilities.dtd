@@ -1,0 +1,8 @@
+<!ELEMENT compatibilities (compatibility+)>
+<!ELEMENT compatibility (type, weakpoint+)>
+<!ELEMENT type EMPTY>
+    <!ATTLIST type t1 CDATA #REQUIRED>
+    <!ATTLIST type t2 CDATA #IMPLIED>
+<!ELEMENT weakpoint EMPTY>
+    <!ATTLIST weakpoint type CDATA #REQUIRED>
+    <!ATTLIST weakpoint level CDATA #REQUIRED>
