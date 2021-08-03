@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+#menu_button_box{
+  position: absolute;
+  top: 45%;
+  left: 45%;
+}
+button {
+  display: block;
+  font-size:20px;
+  padding: 10px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
