@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS user (
+    user_id VARCHAR(15) NOT NULL PRIMARY KEY,
+    user_pwd TEXT NOT NULL
+);

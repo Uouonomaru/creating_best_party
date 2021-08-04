@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>CreatingBestParty | New Account</title>
+</head>
+<body>
+    <div th:if="${error}">[[${error}]]</div>
+    <form action="/new_account" method="POST">
+        <p>
+            <label>ユーザID</label>
+            <input type="text" placeholder="ユーザID(半角英数字15文字以内)" name="user_id">
+        </p>
+        <p>
+            <label>パスワード</label>
+            <input type="password" placeholder="パスワード入力" name="user_pwd1">
+        </p>
+        <p>
+            <label>パスワード再入力</label>
+            <input type="password" placeholder="パスワード再入力" name="user_pwd2">
+        </p>
+        <p><input type="hidden" th:value="${_csrf}" name="_csrf"></p>
+        <p>
+            <input type="submit" value="登録">
+        </p>
+    </form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>CreatingBestParty | Login</title>
+    <script src="/script/login.js" type="module"></script>
+</head>
+<body>
+    <div th:if="${error}">[[${error}]]</div>
+    <form action="/login" method="POST">
+        <p>
+            <label>ユーザID</label>
+            <input type="text" placeholder="ユーザIDを入力" name="user_id" />
+        </p>
+        <p>
+            <label>パスワード</label>
+            <input type="password" placeholder="パスワードを入力" name="user_pwd" />
+        </p>
+        <p>
+            <input type="hidden" name="_csrf" th:value="${_csrf}" />
+        </p>
+        <p>
+            <input type="submit" value="ログイン">
+            <button type="button" id="new_account">新規登録</button>
+        </p>
+    </form>
+</body>
+</html>
