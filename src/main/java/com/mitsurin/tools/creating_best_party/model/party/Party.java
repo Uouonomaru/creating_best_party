@@ -13,8 +13,8 @@ public class Party {
 
   public Party(Compatibility compatibility1, Compatibility compatibility2, Compatibility compatibility3){
     this.compatibility1 = compatibility1;
-    this.compatibility1 = compatibility2;
-    this.compatibility1 = compatibility3;
+    this.compatibility2 = compatibility2;
+    this.compatibility3 = compatibility3;
   }
 
   private Compatibility[] convertParty2Compatibilities(){
@@ -27,24 +27,20 @@ public class Party {
     for(int i = 0; i < partyList.size(); i++){
       json.append("{\"compatibilities\" : [");
 
-      Compatibility[] compatibilities = partyList.get(i).convertParty2Compatibilities();
-      for(int j = 0; j < compatibilities.length; j++){
+      for(Compatibility compatibility : partyList.get(i).convertParty2Compatibilities()){
         json.append("{");
 
-        json.append("\"types\" : [ \"" + compatibilities[j].types[0].toString() + "\",\"" + compatibilities[j].types[1].toString() + "\"], ");
+        json.append("\"types\" : [ \"" + compatibility.types[0].toString() + "\",\"" + compatibility.types[1].toString() + "\"], ");
         json.append("\"weakpoints\" : [");
-        for(Map.Entry<Type, Integer> weakpoint : compatibilities[j].weakpoints.entrySet()){
+        for(Map.Entry<Type, Integer> weakpoint : compatibility.weakpoints.entrySet()){
           json.append("{\"" + weakpoint.getKey().toString() + "\" : " + weakpoint.getValue().toString() + "},");
         }
         json.setLength(json.length() - 1);
         json.append("]");
-        
 
-        json.append("}");
-        if(j < compatibilities.length - 1){
-          json.append(",");
-        }
+        json.append("},");
       }
+      json.setLength(json.length() - 1);
 
       json.append("]}");
       if(i < partyList.size() - 1){

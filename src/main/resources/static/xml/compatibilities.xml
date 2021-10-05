@@ -2,12 +2,12 @@
 <!DOCTYPE compatibilities SYSTEM "compatibilities.dtd">
 <compatibilities>
     <compatibility>
-        <type t1="Normal" t2="" />
+        <type t1="Normal" t2="Empty" />
         <weakpoint type="Combat" level="1" />
         <weakpoint type="Ghost" level="-2" />
     </compatibility>
     <compatibility>
-        <type t1="Heating" t2="" />
+        <type t1="Heating" t2="Empty" />
         <weakpoint type="Heating" level="-1" />
         <weakpoint type="Water" level="1" />
         <weakpoint type="Leaf" level="-1" />
@@ -19,7 +19,7 @@
         <weakpoint type="Fairy" level="-1" />
     </compatibility>
     <compatibility>
-        <type t1="Water" t2="" />
+        <type t1="Water" t2="Empty" />
         <weakpoint type="Heating" level="-1" />
         <weakpoint type="Water" level="-1" />
         <weakpoint type="Voltage" level="1" />
@@ -28,14 +28,14 @@
         <weakpoint type="Steel" level="-1" />
     </compatibility>
     <compatibility>
-        <type t1="Voltage" t2="" />
+        <type t1="Voltage" t2="Empty" />
         <weakpoint type="Voltage" level="-1" />
         <weakpoint type="Temblor" level="1" />
         <weakpoint type="Aviation" level="-1" />
         <weakpoint type="Steel" level="-1" />
     </compatibility>
     <compatibility>
-        <type t1="Leaf" t2="" />
+        <type t1="Leaf" t2="Empty" />
         <weakpoint type="Heating" level="1" />
         <weakpoint type="Water" level="-1" />
         <weakpoint type="Voltage" level="-1" />
@@ -47,7 +47,7 @@
         <weakpoint type="Bug" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Ice" t2="" />
+        <type t1="Ice" t2="Empty" />
         <weakpoint type="Heating" level="1" />
         <weakpoint type="Ice" level="-1" />
         <weakpoint type="Combat" level="1" />
@@ -55,7 +55,7 @@
         <weakpoint type="Steel" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Combat" t2="" />
+        <type t1="Combat" t2="Empty" />
         <weakpoint type="Aviation" level="1" />
         <weakpoint type="Esper" level="1" />
         <weakpoint type="Bug" level="-1" />
@@ -64,7 +64,7 @@
         <weakpoint type="Fairy" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Poison" t2="" />
+        <type t1="Poison" t2="Empty" />
         <weakpoint type="Leaf" level="-1" />
         <weakpoint type="Combat" level="-1" />
         <weakpoint type="Poison" level="-1" />
@@ -74,7 +74,7 @@
         <weakpoint type="Fairy" level="-1" />
     </compatibility>
     <compatibility>
-        <type t1="Temblor" t2="" />
+        <type t1="Temblor" t2="Empty" />
         <weakpoint type="Water" level="1" />
         <weakpoint type="Voltage" level="-2" />
         <weakpoint type="Leaf" level="1" />
@@ -83,7 +83,7 @@
         <weakpoint type="Rock" level="-1" />
     </compatibility>
     <compatibility>
-        <type t1="Esper" t2="" />
+        <type t1="Esper" t2="Empty" />
         <weakpoint type="Combat" level="-1" />
         <weakpoint type="Esper" level="-1" />
         <weakpoint type="Bug" level="1" />
@@ -91,7 +91,7 @@
         <weakpoint type="Mischief" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Bug" t2="" />
+        <type t1="Bug" t2="Empty" />
         <weakpoint type="Heating" level="1" />
         <weakpoint type="Leaf" level="-1" />
         <weakpoint type="Combat" level="-1" />
@@ -100,7 +100,7 @@
         <weakpoint type="Rock" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Rock" t2="" />
+        <type t1="Rock" t2="Empty" />
         <weakpoint type="Normal" level="-1" />
         <weakpoint type="Heating" level="-1" />
         <weakpoint type="Water" level="1" />
@@ -112,7 +112,7 @@
         <weakpoint type="Steel" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Ghost" t2="" />
+        <type t1="Ghost" t2="Empty" />
         <weakpoint type="Normal" level="-2" />
         <weakpoint type="Combat" level="-2" />
         <weakpoint type="Poison" level="-1" />
@@ -121,7 +121,7 @@
         <weakpoint type="Mischief" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Dragon" t2="" />
+        <type t1="Dragon" t2="Empty" />
         <weakpoint type="Heating" level="-1" />
         <weakpoint type="Water" level="-1" />
         <weakpoint type="Voltage" level="-1" />
@@ -131,7 +131,7 @@
         <weakpoint type="Fairy" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Mischief" t2="" />
+        <type t1="Mischief" t2="Empty" />
         <weakpoint type="Combat" level="1" />
         <weakpoint type="Esper" level="-2" />
         <weakpoint type="Bug" level="1" />
@@ -140,7 +140,7 @@
         <weakpoint type="Fairy" level="1" />
     </compatibility>
     <compatibility>
-        <type t1="Steel" t2="" />
+        <type t1="Steel" t2="Empty" />
         <weakpoint type="Normal" level="-1" />
         <weakpoint type="Heating" level="1" />
         <weakpoint type="Leaf" level="-1" />
@@ -157,7 +157,7 @@
         <weakpoint type="Fairy" level="-1" />
     </compatibility>
     <compatibility>
-        <type t1="Fairy" t2="" />
+        <type t1="Fairy" t2="Empty" />
         <weakpoint type="Combat" level="-1" />
         <weakpoint type="Poison" level="1" />
         <weakpoint type="Bug" level="-1" />
