@@ -22,12 +22,13 @@ public class CreatingParty {
 
     List<Party> parties = new ArrayList<>();
 
-    for(int i = 0; i < compatibilities.length; i++){
-      Compatibility compatibility2 = compatibilities[i];
+    for(int i = 0; i < CreatingParty.compatibilities.length; i++){
+      Compatibility compatibility2 = CreatingParty.compatibilities[i];
       if(compatibility1.isWeakpointDuplicated(compatibility2)) continue;
 
-      for(int j = i + 1; j < compatibilities.length; j++){
-        Compatibility compatibility3 = compatibilities[j];
+      for(int j = i + 1; j < CreatingParty.compatibilities.length; j++){
+        Compatibility compatibility3 = CreatingParty.compatibilities[j];
+
         if(compatibility1.isWeakpointDuplicated(compatibility3)) continue;
         if(compatibility2.isWeakpointDuplicated(compatibility3)) continue;
 
